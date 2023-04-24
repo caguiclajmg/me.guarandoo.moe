@@ -35,7 +35,6 @@ export default ({ data, environment }) => (
       <title>Me</title>
 
       <link href="stylesheets/index.css" rel="stylesheet" media="all" />
-      <link href="stylesheets/poppins.css" rel="stylesheet" media="all" />
 
       <meta name="viewport" content="initial-scale=1.0, width=device-width" />
     </head>
