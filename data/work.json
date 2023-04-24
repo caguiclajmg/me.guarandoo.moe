@@ -1,0 +1,140 @@
+{
+  "technologies": [
+    ".NET",
+    "C#",
+    "RosettaNet",
+    "Dynamics 365 Business Central",
+    "SECS/GEM",
+    "Full-Stack Web Development",
+    "JavaScript",
+    "NodeJS",
+    "Golang",
+    "C++",
+    "Networking",
+    "BGP"
+  ],
+  "employment": [
+    {
+      "employer": "Monde Nissin Corporation",
+      "title": "IT Developer",
+      "start": "2018",
+      "end": "2019"
+    },
+    {
+      "employer": "nepes hayyim Corporation",
+      "title": "IT Engineer",
+      "start": "2019",
+      "end": "Present"
+    }
+  ],
+  "projects": [
+    {
+      "id": "yotsugi",
+      "url": "https://github.com/caguiclajmg/yotsugi",
+      "logo": "https://github.com/caguiclajmg/yotsugi/raw/master/docs/logo.png",
+      "name": "Yotsugi",
+      "employer": "Personal",
+      "description": "A Discord bot that handles a few basic tasks like querying from imageboards",
+      "status": "archived",
+      "tags": [
+        "js",
+        "nodejs",
+        "bot",
+        "discord"
+      ]
+    },
+    {
+      "id": "tensordock-cli",
+      "url": "https://github.com/caguiclajmg/tensordock-cli",
+      "logo": "https://www.tensordock.com/assets/img/brand.svg",
+      "name": "TensorDock CLI",
+      "employer": "Personal",
+      "description": "A CLI client to manage compute resources on [TensorDock](https://www.tensordock.com/)",
+      "status": "active",
+      "tags": [
+        "golang",
+        "cli"
+      ]
+    },
+    {
+      "id": "wanakanasharp",
+      "url": "https://github.com/caguiclajmg/WanaKanaSharp",
+      "logo": null,
+      "name": "WanaKanaSharp",
+      "employer": "Personal",
+      "description": "A Japanese text (Romaji ⇄ Hiragana ⇄ Katakana) transliteration library inspired by WanaKana",
+      "status": "active",
+      "tags": [
+        "transliteration",
+        "dotnet",
+        "c#"
+      ]
+    },
+    {
+      "id": "waste-collection-tracker",
+      "url": null,
+      "logo": null,
+      "name": "Waste Collection Tracker",
+      "employer": "Personal",
+      "description": "A mobile web-based application for a client to track amount, location and signoffs during routing waste collection",
+      "status": "archived",
+      "tags": [
+        "js",
+        "nodejs",
+        "web"
+      ]
+    },
+    {
+      "id": "infra",
+      "url": null,
+      "logo": null,
+      "name": "Guarandoo",
+      "employer": "Personal",
+      "description": "Personal infrastructure powering most of my self hosted services, majority of the servers are running NixOS",
+      "status": "active",
+      "tags": [
+        "infra",
+        "nixos"
+      ]
+    },
+    {
+      "id": "bird2",
+      "url": "https://github.com/guarandoo/bird2",
+      "logo": "/images/bird.png",
+      "name": "BIRD2",
+      "employer": "Personal",
+      "description": "A set of [BIRD2](https://bird.network.cz/) patches which provide new functionality (e.g. webhooks) done as experiments",
+      "status": "active",
+      "tags": [
+        "cpp",
+        "bgp"
+      ]
+    },
+    {
+      "id": "as200866",
+      "url": "https://bgp.tools/as/200866",
+      "logo": null,
+      "name": "Guarandoo",
+      "employer": "Personal",
+      "description": "AS number 200866 running on a primarily IPv6-stack powering the Guarandoo infrastructure",
+      "status": "active",
+      "tags": [
+        "networking",
+        "bgp"
+      ]
+    },
+    {
+      "id": "as199501",
+      "url": "https://bgp.tools/as/199501",
+      "logo": null,
+      "name": "Guarandoo Labs",
+      "employer": "Personal",
+      "description": "AS number 199501 used for research and development of Guarandoo networks",
+      "status": "active",
+      "tags": [
+        "networking",
+        "bgp"
+      ]
+    }
+ ]
+}
