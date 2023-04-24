@@ -100,7 +100,7 @@
     {
       "id": "bird2",
       "url": "https://github.com/guarandoo/bird2",
-      "logo": "/images/bird.png",
+      "logo": "images/bird.png",
       "name": "BIRD2",
       "employer": "Personal",
       "description": "A set of [BIRD2](https://bird.network.cz/) patches which provide new functionality (e.g. webhooks) done as experiments",
